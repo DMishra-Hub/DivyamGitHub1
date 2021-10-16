@@ -1,4 +1,8 @@
-### Hi there 👋
+**Hello** & **Welcome** to the **README** for the _Open Source Software Engineering – Assignment 3_.<br/>
+The assignment asks for creating a Webpage, in HTML, that presents the Profile (CV) of the student.<br/><br/>
+
+Same has been developed in HTML and checked in the main branch of this REPO.<br/>
+Please browse to the page through the URL https://divyamgithub1.github.io
 
 <!--
 **DivyamGitHub1/DivyamGitHub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
